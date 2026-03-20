@@ -25,6 +25,7 @@ const allowedOrigins = [
   "https://backend.cerada.in",
   "https://cerada.in",
   "http://cerada.in",
+  "https://cerada.infinityuniquers.com/"
 ];
 
 server.use(cors({
